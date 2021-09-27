@@ -1,11 +1,6 @@
 
 <footer>
-  <a href="#" class="link">Over Ons</a>
-  <a href="#" class="link">Contact gegevens</a>
-  <a href="#" class="link">Social links</a>
-  <div class="copyright">
-  	© {{ __('misc.copyright') }}
-  </div>
+	© {{ __('misc.copyright') }}
 </footer>
 
 
@@ -29,5 +24,5 @@
  if (top.location!= self.location) { 
   top.location = self.location.href
  } 
-//-->    
+//--> 
 </script>
